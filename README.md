@@ -186,13 +186,13 @@ If you find our repository useful, please consider giving it a star ⭐ and citi
 
 ```
 @article{
-		liang2025monocular,
-		title={Monocular Dynamic Gaussian Splatting: Fast, Brittle, and Scene Complexity Rules},
-		author={Yiqing Liang and Mikhail Okunev and Mikaela Angelina Uy and Runfeng Li and Leonidas Guibas and James Tompkin and Adam W Harley},
-		journal={Transactions on Machine Learning Research},
-		issn={2835-8856},
-		year={2025},
-		url={https://openreview.net/forum?id=fzmw8Joug4},
-		note={Survey Certification}
-	}
+	liang2025monocular,
+	title={Monocular Dynamic Gaussian Splatting: Fast, Brittle, and Scene Complexity Rules},
+	author={Yiqing Liang and Mikhail Okunev and Mikaela Angelina Uy and Runfeng Li and Leonidas Guibas and James Tompkin and Adam W Harley},
+	journal={Transactions on Machine Learning Research},
+	issn={2835-8856},
+	year={2025},
+	url={https://openreview.net/forum?id=fzmw8Joug4},
+	note={Survey Certification}
+}
 ```
